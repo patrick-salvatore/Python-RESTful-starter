@@ -1,6 +1,6 @@
 # API docs 
 
-## The use case: Eleven Speed is an ecommerce site that uses React.js, Python's flask, and MySQL to help understand better development practices and the respective technologies
+## The use case: Eleven Speed is an ecommerce site that uses React.js and Python's flask to help understand better development practices and the respective technologies
 
 All responses will be in the format: 
 
@@ -11,7 +11,7 @@ All responses will be in the format:
 }
 ```
 
-## Get Item
+## GET ITEMS
 
 **DEFINITON**
 method = GET 
@@ -37,8 +37,7 @@ method = GET
         "name": "sportif 1.01",
         "price": "$1100",
         "image": "some url"
-    }, 
-
+    }
 ]
 ```
 
