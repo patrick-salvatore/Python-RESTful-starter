@@ -77,7 +77,7 @@ method = GET
 }
 ```
 
-## DELETE item 
+## DELETE item w/ ID
 
 **DEFINITON**
 method = DELETE 
